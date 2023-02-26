@@ -13,13 +13,13 @@ Task List:
 * task 4  
     &rarr; [AutoEncoders](./A_4/A4_Autoencoders.ipynb)
 * task 5  
-    &rarr; [CNN architecture](./A_5/A5_2_CNN.ipynb)
-    &rarr; [UNet implementation](./A_5/A5_1_UNET.ipynb)
+    &rarr; [CNN architecture](./A_5/A5_2_CNN.ipynb)  
+    &rarr; [UNet implementation](./A_5/A5_1_UNET.ipynb)  
 * task 6  
-    &rarr; [GANs](./A_6/) _(Generative Adversial Networks)_
+    &rarr; [GANs](./A_6/A6_GANs.ipynb) _(Generative Adversial Networks)_
 * task 7  
-    &rarr; [DBVAE](./A_7/) _(DeBiasing Variational AutoEncoder)_
-* task 8 
-    &rarr; [transfer learning](./A_8/)
+    &rarr; [DBVAE](./A_7/A7_DBVAE.ipynb) _(DeBiasing Variational AutoEncoder)_
+* task 8  
+    &rarr; [transfer learning](./A_8/A8_Transfer_Learning.ipynb)
 
 <!-- [link](./A_1/A1_tf_basics.ipynb) -->
